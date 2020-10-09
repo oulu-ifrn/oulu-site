@@ -1,0 +1,3 @@
+The authenticity of host 'oulu.ifrn.edu.br (200.137.2.128)' can't be established.
+ECDSA key fingerprint is SHA256:YNxlX1HD5LUhgWkdxn5L+Id8KCzc9bcCOD1pC+Qg4x4.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
