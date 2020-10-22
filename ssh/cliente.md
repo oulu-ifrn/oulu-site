@@ -19,6 +19,9 @@ Para ter um terminal em seu dispositivo Android, instale o app
 
 * `pkg install openssh`
 
+Adicionar mais teclas a seu teclado do Termux, com as teclas <kbd>Esc</kbd>, <kbd>PgUp</kbd> e <kbd>PgDown</kbd>, siga os passos do seguinte vídeo, gentilmente compartilhado por [Rodrigo Rodrigues](https://mange.ifrn.edu.br/site/redes20191par/manual-asa//equipe/rodrigo.html).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rFsMcuc6omg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## iPad/iPhone
 
