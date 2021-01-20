@@ -3,9 +3,9 @@
 # Configuração do cliente SSH 
 
 Você pode ver nesta página: 
-- [Como acessar via SSH, sem senha, o servidor Oulu](#acesso-sem-senha) e
-- [Como acessar via SSH, por meio de um comando curto, o servidor Oulu](#acesso-curto)
-- [Vídeo de demonstração da configurações anteriores](#video-demo)
+- [Como acessar, via SSH e sem senha, o servidor Oulu](#acesso-sem-senha) e
+- {ref}`Como acessar, via SSH e por meio de um comando curto, o servidor Oulu <ssh-conf-acesso-curto>`
+- {ref}`Vídeo de demonstração das configurações anteriores <ssh-conf-video-demo>`
 
 ```{warning}
 Para seguir os passos desta página, presume-se que você já tenha:
@@ -47,7 +47,7 @@ Só faça isso em seus próprios dispositivos (PC, notebook, celular ou tablet).
    
 A partir de agora você poderá acessar a máquina Oulu por meio de seu par de chaves pública/privada do SSH e sem a solicitação de senha (Foi por esta razão que você pressionou a tecla {kbd}`Enter` três vezes no passo 1). Experimente!
 
-<a name="acesso-curso">
+(ssh-conf-acesso-curto)=
 
 ## Acesso por meio de um comando curto
 
@@ -77,8 +77,8 @@ O roteiro básico é:
 
    ```
    Host oulu
-     hostname oulu.ifrn.edu.br
-     user fulano.tal
+     Hostname oulu.ifrn.edu.br
+     User fulano.tal
    ```
 
    PS: Troque *fulano.tal* pelo nome de seu usuário na Oulu.
@@ -93,7 +93,7 @@ O roteiro básico é:
 Pronto. Agora você pode acessar a máquina Oulu via SSH digitando simplesmente:
 - `ssh oulu`
 
-<a name="video-demo">
+(ssh-conf-video-demo)=
 
 ## Vídeo de demonstração
 
