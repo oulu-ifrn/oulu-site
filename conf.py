@@ -7,7 +7,7 @@ release = '2020'
 
 extensions = [
     'myst_parser',
-    'sphinxcontrib.plantuml',
+#   'sphinxcontrib.plantuml',
 ]
 
 # Add any paths that contain templates here, relative to this directory.

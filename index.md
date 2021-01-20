@@ -2,10 +2,11 @@
 
 ```{toctree}
 ---
-maxdepth: 2
+maxdepth: 1
 caption: "Conteúdo:"
 ---
 
+ssh/index.md
 hardware/cpus.md
 hardware/hd.md
 hardware/ram.md
